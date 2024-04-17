@@ -6,6 +6,10 @@
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-   </Grid>
+    <Grid Margin="30,0,65,389">
+        <Button Content="styczen2023" Click="Button_Click" Margin="0,39,0,-39"/>
+        <Button Content="styczen2024" Click="Button_Click" Margin="0,314,0,-314"/>
+        <Button Content="styczen2025" Click="Button_Click" Margin="0,129,0,-129"/>
+        <Button Content="styczen2026" Click="Button_Click" Margin="0,224,0,-224"/>
+    </Grid>
 </Window>
